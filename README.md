@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 Most of my real work lives in private repositories, regulated environments, or systems where the phrase **“just push it to GitHub”** is followed by a long pause and a compliance checklist.
 
-This profile is intentionally minimal.
-
 ### As Calvin once said:
 
 > *“I go to school, but I never learn what I want to know.”*
